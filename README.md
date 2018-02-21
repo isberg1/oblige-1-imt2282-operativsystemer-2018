@@ -1,2 +1,2 @@
-# My project's README
-# My project's README
+generell readme for hele prosjektet
+se spesefikke readme in enkeltmapper
